@@ -1,7 +1,8 @@
 
 **Aritra Chakraborty**
+
 aritrachakraborty0124@gmail.com
 
-If you want to embed images, this is how you do it:
+contact for any project work related to computer science
 
 ![Image of Aritra](https://octodex.github.com/images/yaktocat.png)
